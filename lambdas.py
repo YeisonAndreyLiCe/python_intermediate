@@ -1,0 +1,1 @@
+palindrome = lambda x: x == x[::-1]
